@@ -19,3 +19,23 @@ body {
     margin-left: 20%;
     margin-right: 20%;
 }
+
+ul.raf{
+    list-style-image: url(../img/RAF_16.png);
+    padding-left: 0px;
+    list-style-position: inside;
+    margin-top: -10px;
+}
+
+ul.luftwaffe{
+    list-style-image: url(../img/Luftwaffe_16.png);
+    padding-left: 0px;
+    list-style-position: inside;
+    margin-top: -10px;
+}
+
+/*
+li{
+    margin-left: -40px; Dit kan ook i.p.v. de padding-left op de ul
+}
+*/
